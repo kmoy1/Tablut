@@ -1,0 +1,21 @@
+#* java -ea tablut.Main
+# Check captures against empty throne.
+manual white
+
+f9-7
+dump
+f5-2
+dump
+d9-7
+dump
+e5-f
+dump
+f7-e
+dump
+g5-7
+dump
+e7-6
+dump
+g7-e
+dump
+quit
